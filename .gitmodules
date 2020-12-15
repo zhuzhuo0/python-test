@@ -1,0 +1,3 @@
+[submodule "python-core"]
+	path = python-core
+	url = git@github.com:zhuzhuo0/python-core.git
